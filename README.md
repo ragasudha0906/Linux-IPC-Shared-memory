@@ -1,4 +1,4 @@
-# Linux-IPC-Shared-memory
+# EX-6 Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
 # AIM:
